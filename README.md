@@ -1,7 +1,3 @@
-Of course. Here is your README, formatted into clean and readable Markdown without altering any of the original text.
-
----
-
 # Fine-tuning Qwen1.5-4B with Advanced Preference Optimization Methods
 
 This report details the process of fine-tuning the `Qwen1.5-4B` model using three distinct techniques: `QLORA`, `GRPO`, and `ORPO`. The experiments were conducted using Kaggle and Google Colab notebooks. The goal was to enhance the model's mathematical reasoning capabilities.
